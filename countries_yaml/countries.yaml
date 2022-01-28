@@ -1,0 +1,739 @@
+---
+- country:
+    iso_code: AD
+    country_name: ANDORRA
+- country:
+    iso_code: AE
+    country_name: UNITED ARAB EMIRATES
+- country:
+    iso_code: AF
+    country_name: AFGHANISTAN
+- country:
+    iso_code: AG
+    country_name: ANTIGUA AND BARBUDA
+- country:
+    iso_code: AI
+    country_name: ANGUILLA
+- country:
+    iso_code: AL
+    country_name: ALBANIA
+- country:
+    iso_code: AM
+    country_name: ARMENIA
+- country:
+    iso_code: AN
+    country_name: NETHERLANDS ANTILLES
+- country:
+    iso_code: AO
+    country_name: ANGOLA
+- country:
+    iso_code: AQ
+    country_name: ANTARCTICA
+- country:
+    iso_code: AR
+    country_name: ARGENTINA
+- country:
+    iso_code: AS
+    country_name: AMERICAN SAMOA
+- country:
+    iso_code: AT
+    country_name: AUSTRIA
+- country:
+    iso_code: AU
+    country_name: AUSTRALIA
+- country:
+    iso_code: AW
+    country_name: ARUBA
+- country:
+    iso_code: AX
+    country_name: ÅLAND ISLANDS
+- country:
+    iso_code: AZ
+    country_name: AZERBAIJAN
+- country:
+    iso_code: BA
+    country_name: BOSNIA AND HERZEGOVINA
+- country:
+    iso_code: BB
+    country_name: BARBADOS
+- country:
+    iso_code: BD
+    country_name: BANGLADESH
+- country:
+    iso_code: BE
+    country_name: BELGIUM
+- country:
+    iso_code: BF
+    country_name: BURKINA FASO
+- country:
+    iso_code: BG
+    country_name: BULGARIA
+- country:
+    iso_code: BH
+    country_name: BAHRAIN
+- country:
+    iso_code: BI
+    country_name: BURUNDI
+- country:
+    iso_code: BJ
+    country_name: BENIN
+- country:
+    iso_code: BL
+    country_name: SAINT BARTHÉLEMY
+- country:
+    iso_code: BM
+    country_name: BERMUDA
+- country:
+    iso_code: BN
+    country_name: BRUNEI DARUSSALAM
+- country:
+    iso_code: BO
+    country_name: BOLIVIA
+- country:
+    iso_code: BR
+    country_name: BRAZIL
+- country:
+    iso_code: BS
+    country_name: BAHAMAS
+- country:
+    iso_code: BT
+    country_name: BHUTAN
+- country:
+    iso_code: BV
+    country_name: BOUVET ISLAND
+- country:
+    iso_code: BW
+    country_name: BOTSWANA
+- country:
+    iso_code: BY
+    country_name: BELARUS
+- country:
+    iso_code: BZ
+    country_name: BELIZE
+- country:
+    iso_code: CA
+    country_name: CANADA
+- country:
+    iso_code: CC
+    country_name: COCOS (KEELING) ISLANDS
+- country:
+    iso_code: CD
+    country_name: CONGO, THE DEMOCRATIC REPUBLIC OF THE
+- country:
+    iso_code: CF
+    country_name: CENTRAL AFRICAN REPUBLIC
+- country:
+    iso_code: CG
+    country_name: CONGO
+- country:
+    iso_code: CH
+    country_name: SWITZERLAND
+- country:
+    iso_code: CI
+    country_name: CÔTE D'IVOIRE
+- country:
+    iso_code: CK
+    country_name: COOK ISLANDS
+- country:
+    iso_code: CL
+    country_name: CHILE
+- country:
+    iso_code: CM
+    country_name: CAMEROON
+- country:
+    iso_code: CN
+    country_name: CHINA
+- country:
+    iso_code: CO
+    country_name: COLOMBIA
+- country:
+    iso_code: CR
+    country_name: COSTA RICA
+- country:
+    iso_code: CU
+    country_name: CUBA
+- country:
+    iso_code: CV
+    country_name: CAPE VERDE
+- country:
+    iso_code: CX
+    country_name: CHRISTMAS ISLAND
+- country:
+    iso_code: CY
+    country_name: CYPRUS
+- country:
+    iso_code: CZ
+    country_name: CZECH REPUBLIC
+- country:
+    iso_code: DE
+    country_name: GERMANY
+- country:
+    iso_code: DJ
+    country_name: DJIBOUTI
+- country:
+    iso_code: DK
+    country_name: DENMARK
+- country:
+    iso_code: DM
+    country_name: DOMINICA
+- country:
+    iso_code: DO
+    country_name: DOMINICAN REPUBLIC
+- country:
+    iso_code: DZ
+    country_name: ALGERIA
+- country:
+    iso_code: EC
+    country_name: ECUADOR
+- country:
+    iso_code: EE
+    country_name: ESTONIA
+- country:
+    iso_code: EG
+    country_name: EGYPT
+- country:
+    iso_code: EH
+    country_name: WESTERN SAHARA
+- country:
+    iso_code: ER
+    country_name: ERITREA
+- country:
+    iso_code: ES
+    country_name: SPAIN
+- country:
+    iso_code: ET
+    country_name: ETHIOPIA
+- country:
+    iso_code: FI
+    country_name: FINLAND
+- country:
+    iso_code: FJ
+    country_name: FIJI
+- country:
+    iso_code: FK
+    country_name: FALKLAND ISLANDS (MALVINAS)
+- country:
+    iso_code: FM
+    country_name: MICRONESIA, FEDERATED STATES OF
+- country:
+    iso_code: FO
+    country_name: FAROE ISLANDS
+- country:
+    iso_code: FR
+    country_name: FRANCE
+- country:
+    iso_code: GA
+    country_name: GABON
+- country:
+    iso_code: GB
+    country_name: UNITED KINGDOM
+- country:
+    iso_code: GD
+    country_name: GRENADA
+- country:
+    iso_code: GE
+    country_name: GEORGIA
+- country:
+    iso_code: GF
+    country_name: FRENCH GUIANA
+- country:
+    iso_code: GG
+    country_name: GUERNSEY
+- country:
+    iso_code: GH
+    country_name: GHANA
+- country:
+    iso_code: GI
+    country_name: GIBRALTAR
+- country:
+    iso_code: GL
+    country_name: GREENLAND
+- country:
+    iso_code: GM
+    country_name: GAMBIA
+- country:
+    iso_code: GN
+    country_name: GUINEA
+- country:
+    iso_code: GP
+    country_name: GUADELOUPE
+- country:
+    iso_code: GQ
+    country_name: EQUATORIAL GUINEA
+- country:
+    iso_code: GR
+    country_name: GREECE
+- country:
+    iso_code: GS
+    country_name: SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS
+- country:
+    iso_code: GT
+    country_name: GUATEMALA
+- country:
+    iso_code: GU
+    country_name: GUAM
+- country:
+    iso_code: GW
+    country_name: GUINEA-BISSAU
+- country:
+    iso_code: GY
+    country_name: GUYANA
+- country:
+    iso_code: HK
+    country_name: HONG KONG
+- country:
+    iso_code: HM
+    country_name: HEARD ISLAND AND MCDONALD ISLANDS
+- country:
+    iso_code: HN
+    country_name: HONDURAS
+- country:
+    iso_code: HR
+    country_name: CROATIA
+- country:
+    iso_code: HT
+    country_name: HAITI
+- country:
+    iso_code: HU
+    country_name: HUNGARY
+- country:
+    iso_code: ID
+    country_name: INDONESIA
+- country:
+    iso_code: IE
+    country_name: IRELAND
+- country:
+    iso_code: IL
+    country_name: ISRAEL
+- country:
+    iso_code: IM
+    country_name: ISLE OF MAN
+- country:
+    iso_code: IO
+    country_name: BRITISH INDIAN OCEAN TERRITORY
+- country:
+    iso_code: IQ
+    country_name: IRAQ
+- country:
+    iso_code: IR
+    country_name: IRAN, ISLAMIC REPUBLIC OF
+- country:
+    iso_code: IS
+    country_name: ICELAND
+- country:
+    iso_code: IT
+    country_name: ITALY
+- country:
+    iso_code: JE
+    country_name: JERSEY
+- country:
+    iso_code: JM
+    country_name: JAMAICA
+- country:
+    iso_code: JO
+    country_name: JORDAN
+- country:
+    iso_code: JP
+    country_name: JAPAN
+- country:
+    iso_code: KE
+    country_name: KENYA
+- country:
+    iso_code: KG
+    country_name: KYRGYZSTAN
+- country:
+    iso_code: KH
+    country_name: CAMBODIA
+- country:
+    iso_code: KI
+    country_name: KIRIBATI
+- country:
+    iso_code: KM
+    country_name: COMOROS
+- country:
+    iso_code: KN
+    country_name: SAINT KITTS AND NEVIS
+- country:
+    iso_code: KP
+    country_name: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
+- country:
+    iso_code: KR
+    country_name: KOREA, REPUBLIC OF
+- country:
+    iso_code: KW
+    country_name: KUWAIT
+- country:
+    iso_code: KY
+    country_name: CAYMAN ISLANDS
+- country:
+    iso_code: KZ
+    country_name: KAZAKHSTAN
+- country:
+    iso_code: LA
+    country_name: LAO PEOPLE'S DEMOCRATIC REPUBLIC
+- country:
+    iso_code: LB
+    country_name: LEBANON
+- country:
+    iso_code: LC
+    country_name: SAINT LUCIA
+- country:
+    iso_code: LI
+    country_name: LIECHTENSTEIN
+- country:
+    iso_code: LK
+    country_name: SRI LANKA
+- country:
+    iso_code: LR
+    country_name: LIBERIA
+- country:
+    iso_code: LS
+    country_name: LESOTHO
+- country:
+    iso_code: LT
+    country_name: LITHUANIA
+- country:
+    iso_code: LU
+    country_name: LUXEMBOURG
+- country:
+    iso_code: LV
+    country_name: LATVIA
+- country:
+    iso_code: LY
+    country_name: LIBYAN ARAB JAMAHIRIYA
+- country:
+    iso_code: MA
+    country_name: MOROCCO
+- country:
+    iso_code: MC
+    country_name: MONACO
+- country:
+    iso_code: MD
+    country_name: MOLDOVA, REPUBLIC OF
+- country:
+    iso_code: ME
+    country_name: MONTENEGRO
+- country:
+    iso_code: MF
+    country_name: SAINT MARTIN
+- country:
+    iso_code: MG
+    country_name: MADAGASCAR
+- country:
+    iso_code: MH
+    country_name: MARSHALL ISLANDS
+- country:
+    iso_code: MK
+    country_name: MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF
+- country:
+    iso_code: ML
+    country_name: MALI
+- country:
+    iso_code: MM
+    country_name: MYANMAR
+- country:
+    iso_code: MN
+    country_name: MONGOLIA
+- country:
+    iso_code: MO
+    country_name: MACAO
+- country:
+    iso_code: MP
+    country_name: NORTHERN MARIANA ISLANDS
+- country:
+    iso_code: MQ
+    country_name: MARTINIQUE
+- country:
+    iso_code: MR
+    country_name: MAURITANIA
+- country:
+    iso_code: MS
+    country_name: MONTSERRAT
+- country:
+    iso_code: MT
+    country_name: MALTA
+- country:
+    iso_code: MU
+    country_name: MAURITIUS
+- country:
+    iso_code: MV
+    country_name: MALDIVES
+- country:
+    iso_code: MW
+    country_name: MALAWI
+- country:
+    iso_code: MX
+    country_name: MEXICO
+- country:
+    iso_code: MY
+    country_name: MALAYSIA
+- country:
+    iso_code: MZ
+    country_name: MOZAMBIQUE
+- country:
+    iso_code: NA
+    country_name: NAMIBIA
+- country:
+    iso_code: NC
+    country_name: NEW CALEDONIA
+- country:
+    iso_code: NE
+    country_name: NIGER
+- country:
+    iso_code: NF
+    country_name: NORFOLK ISLAND
+- country:
+    iso_code: NG
+    country_name: NIGERIA
+- country:
+    iso_code: NI
+    country_name: NICARAGUA
+- country:
+    iso_code: NL
+    country_name: NETHERLANDS
+- country:
+    iso_code: "NO"
+    country_name: NORWAY
+- country:
+    iso_code: NP
+    country_name: NEPAL
+- country:
+    iso_code: NR
+    country_name: NAURU
+- country:
+    iso_code: NU
+    country_name: NIUE
+- country:
+    iso_code: NZ
+    country_name: NEW ZEALAND
+- country:
+    iso_code: OM
+    country_name: OMAN
+- country:
+    iso_code: PA
+    country_name: PANAMA
+- country:
+    iso_code: PE
+    country_name: PERU
+- country:
+    iso_code: PF
+    country_name: FRENCH POLYNESIA
+- country:
+    iso_code: PG
+    country_name: PAPUA NEW GUINEA
+- country:
+    iso_code: PH
+    country_name: PHILIPPINES
+- country:
+    iso_code: PK
+    country_name: PAKISTAN
+- country:
+    iso_code: PL
+    country_name: POLAND
+- country:
+    iso_code: PM
+    country_name: SAINT PIERRE AND MIQUELON
+- country:
+    iso_code: PN
+    country_name: PITCAIRN
+- country:
+    iso_code: PR
+    country_name: PUERTO RICO
+- country:
+    iso_code: PS
+    country_name: PALESTINIAN TERRITORY, OCCUPIED
+- country:
+    iso_code: PT
+    country_name: PORTUGAL
+- country:
+    iso_code: PW
+    country_name: PALAU
+- country:
+    iso_code: PY
+    country_name: PARAGUAY
+- country:
+    iso_code: QA
+    country_name: QATAR
+- country:
+    iso_code: RE
+    country_name: REUNION
+- country:
+    iso_code: RO
+    country_name: ROMANIA
+- country:
+    iso_code: RS
+    country_name: SERBIA
+- country:
+    iso_code: RU
+    country_name: RUSSIAN FEDERATION
+- country:
+    iso_code: RW
+    country_name: RWANDA
+- country:
+    iso_code: SA
+    country_name: SAUDI ARABIA
+- country:
+    iso_code: SB
+    country_name: SOLOMON ISLANDS
+- country:
+    iso_code: SC
+    country_name: SEYCHELLES
+- country:
+    iso_code: SD
+    country_name: SUDAN
+- country:
+    iso_code: SE
+    country_name: SWEDEN
+- country:
+    iso_code: SG
+    country_name: SINGAPORE
+- country:
+    iso_code: SH
+    country_name: SAINT HELENA
+- country:
+    iso_code: SI
+    country_name: SLOVENIA
+- country:
+    iso_code: SJ
+    country_name: SVALBARD AND JAN MAYEN
+- country:
+    iso_code: SK
+    country_name: SLOVAKIA
+- country:
+    iso_code: SL
+    country_name: SIERRA LEONE
+- country:
+    iso_code: SM
+    country_name: SAN MARINO
+- country:
+    iso_code: SN
+    country_name: SENEGAL
+- country:
+    iso_code: SO
+    country_name: SOMALIA
+- country:
+    iso_code: SR
+    country_name: SURINAME
+- country:
+    iso_code: ST
+    country_name: SAO TOME AND PRINCIPE
+- country:
+    iso_code: SV
+    country_name: EL SALVADOR
+- country:
+    iso_code: SY
+    country_name: SYRIAN ARAB REPUBLIC
+- country:
+    iso_code: SZ
+    country_name: SWAZILAND
+- country:
+    iso_code: TC
+    country_name: TURKS AND CAICOS ISLANDS
+- country:
+    iso_code: TD
+    country_name: CHAD
+- country:
+    iso_code: TF
+    country_name: FRENCH SOUTHERN TERRITORIES
+- country:
+    iso_code: TG
+    country_name: TOGO
+- country:
+    iso_code: TH
+    country_name: THAILAND
+- country:
+    iso_code: TJ
+    country_name: TAJIKISTAN
+- country:
+    iso_code: TK
+    country_name: TOKELAU
+- country:
+    iso_code: TL
+    country_name: TIMOR-LESTE
+- country:
+    iso_code: TM
+    country_name: TURKMENISTAN
+- country:
+    iso_code: TN
+    country_name: TUNISIA
+- country:
+    iso_code: TO
+    country_name: TONGA
+- country:
+    iso_code: TR
+    country_name: TURKEY
+- country:
+    iso_code: TT
+    country_name: TRINIDAD AND TOBAGO
+- country:
+    iso_code: TV
+    country_name: TUVALU
+- country:
+    iso_code: TW
+    country_name: TAIWAN, PROVINCE OF CHINA
+- country:
+    iso_code: TZ
+    country_name: TANZANIA, UNITED REPUBLIC OF
+- country:
+    iso_code: UA
+    country_name: UKRAINE
+- country:
+    iso_code: UG
+    country_name: UGANDA
+- country:
+    iso_code: UM
+    country_name: UNITED STATES MINOR OUTLYING ISLANDS
+- country:
+    iso_code: US
+    country_name: UNITED STATES
+- country:
+    iso_code: UY
+    country_name: URUGUAY
+- country:
+    iso_code: UZ
+    country_name: UZBEKISTAN
+- country:
+    iso_code: VA
+    country_name: HOLY SEE (VATICAN CITY STATE)
+- country:
+    iso_code: VC
+    country_name: SAINT VINCENT AND THE GRENADINES
+- country:
+    iso_code: VE
+    country_name: VENEZUELA
+- country:
+    iso_code: VG
+    country_name: VIRGIN ISLANDS, BRITISH
+- country:
+    iso_code: VI
+    country_name: VIRGIN ISLANDS, U.S.
+- country:
+    iso_code: VN
+    country_name: VIET NAM
+- country:
+    iso_code: VU
+    country_name: VANUATU
+- country:
+    iso_code: WF
+    country_name: WALLIS AND FUTUNA
+- country:
+    iso_code: WS
+    country_name: SAMOA
+- country:
+    iso_code: YE
+    country_name: YEMEN
+- country:
+    iso_code: YT
+    country_name: MAYOTTE
+- country:
+    iso_code: ZA
+    country_name: SOUTH AFRICA
+- country:
+    iso_code: ZM
+    country_name: ZAMBIA
+- country:
+    iso_code: ZW
+    country_name: ZIMBABWE
+- country:
+    iso_code: IN
+    country_name: INDIA
